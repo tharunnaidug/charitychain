@@ -1,0 +1,13 @@
+**/node_modules/
+**/.env
+**/dist/
+**/.vite/
+**/artifacts/
+**/cache/
+**/typechain-types/
+**/coverage/
+**/.hardhat/
+backend/src/uploads/*
+!backend/src/uploads/.gitkeep
+.DS_Store
+*.log
